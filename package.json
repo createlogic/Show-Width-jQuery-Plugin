@@ -1,0 +1,12 @@
+{
+  "name": "ShowWidth",
+  "version": "0.1",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.2"
+  },
+  "author": "Bilal",
+  "license": "BSD"
+}
